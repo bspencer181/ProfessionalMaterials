@@ -1,5 +1,5 @@
 # UpdatedPortfolio
-<img src= "https://github.com/bspencer181/UpdatedPortfolio/blob/main/assets/portfolio.JPG?raw=true">
+<img src= ".\assets\Capture.JPG">
 
 ## Description
 This application gives the user a summary of my work and contact information
