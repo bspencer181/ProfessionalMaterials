@@ -10,4 +10,4 @@ After loading the page, the user is able to view projects, find social media lin
 * CSS
 * Bootstrap
 ## Github Repo Link
- https://bspencer181.github.io/UpdatedPortfolio/
+ https://bspencer181.github.io/ProfessionalMaterials
