@@ -71,6 +71,7 @@ h5 {
   padding-bottom: 10px;
   background-color: #281831;
   color: gray;
+  margin: auto;
   
   
 }
@@ -89,7 +90,7 @@ h5 {
 .carousel {
   margin: auto;
   padding-top: 20px;
-  width:60%;
-  height:60%;
+  width:50%;
+  height:50%;
   
 }
