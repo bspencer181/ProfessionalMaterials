@@ -4,7 +4,7 @@
 ## Description
 This application gives the user a summary of my work and contact information
 ## How It Works
-After loading the page, the user has access to a drop down menu to view projects, social media links, and a copy of my resume
+After loading the page, the user is able to view projects, find social media links, and download a copy of my resume
 ## Technology Used
 * HTML
 * CSS
